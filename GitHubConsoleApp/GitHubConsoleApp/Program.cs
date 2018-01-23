@@ -12,6 +12,7 @@ namespace GitHubConsoleApp
         {
             //testing a commento
             int var = 0;
+            string BoomBoom = "Bam";
         }
     }
 }
